@@ -1,0 +1,20 @@
+{
+  "name": "es6-namespace",
+  "version": "0.1.0",
+  "authors": [
+    "XuaNguyen <xuan.0211@gmail.com>"
+  ],
+  "description": "A lightweight javascript helper checking for or creating namespace objects.",
+  "homepage": "https://github.com/xuanhoa88/es6-namespace",
+  "main": "es6-namespace.js",
+  "keywords": [
+    "namespace",
+    "javascript",
+    "llama"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}
